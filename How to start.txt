@@ -1,0 +1,5 @@
+cd chatbot-backend
+npm run start:dev
+
+cd chatbot-frontend
+npm run start
